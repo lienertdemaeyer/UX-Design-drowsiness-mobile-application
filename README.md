@@ -1,3 +1,6 @@
+
+![design in case deres](https://github.com/user-attachments/assets/e8275334-ef58-49d6-a5e3-9b44ce5afb7e)
+
 # DRIMO - UX Design Project
 
 DRIMO is a mobile app designed to monitor driver health and reduce stress while driving. This repository showcases the UX design of the app, including visual layouts, user flows, and interface elements.
